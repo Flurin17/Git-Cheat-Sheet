@@ -21,7 +21,7 @@ git add <geändertes File>
 git commit -m "Zusammenfassung der Änderungen"
 git push origin <Branch für den Push>
 ```
-_Lokales Repo syncen_
+🔃 _Lokales Repo syncen_ 🔃
 ```sh
 git pull
 ```
